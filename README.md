@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
 - 📫 How to reach me: sum@sumone.xyz
-- I started writing blog: https://blog.sumone.xyz
+- I started writing blog: https://sumone.xyz
 - ⚡ Fun fact: idk why i am still alive
