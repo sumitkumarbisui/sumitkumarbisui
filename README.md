@@ -1,6 +1,6 @@
 ## Hi  👋
 
-## I use Codeberg by choice and GitHub by necessity.
+## WELCOME 
 
 Here are some ideas to get you started:
 
